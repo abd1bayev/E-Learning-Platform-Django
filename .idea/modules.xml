@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/site for voting.iml" filepath="$PROJECT_DIR$/.idea/site for voting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/E-Learning-Platform-Django.iml" filepath="$PROJECT_DIR$/.idea/E-Learning-Platform-Django.iml" />
     </modules>
   </component>
 </project>
