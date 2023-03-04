@@ -15,10 +15,11 @@
 - pip install -r requirements.txt
 - python manage.py migrate
 - python manage.py createsuperuser
+
 <h2>Redis:</h2>
+
 - docker run -it --rm --name redis -p 6379:6379 redis
 - docker run -it --rm --name memcached -p 11211:11211 memcached -m 64
-
 - python manage.py runserver
 
 <img src="scren/profile.png">
